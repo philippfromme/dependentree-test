@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "moddle": "bpmn-io/moddle#v6.0.0",
+    "moddle-xml": "bpmn-io/moddle-xml#v10.0.0"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
